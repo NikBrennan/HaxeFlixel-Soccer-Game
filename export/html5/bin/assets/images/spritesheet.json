@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "goalie_low.png",
+	"frame": {"x":0,"y":0,"w":210,"h":385},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":385},
+	"sourceSize": {"w":210,"h":385}
+},
+{
+	"filename": "goalie_standing.png",
+	"frame": {"x":210,"y":0,"w":152,"h":385},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":385},
+	"sourceSize": {"w":152,"h":385}
+},
+{
+	"filename": "goalie_up.png",
+	"frame": {"x":362,"y":0,"w":125,"h":385},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":385},
+	"sourceSize": {"w":125,"h":385}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":210,"h":878},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:098157875332512a3e77fcaf0aec767e:4280a47a8fabb2c110fbbf3ae575fe2f:729adc6043343cfda41c447ce8f464d6$"
+}
+}
