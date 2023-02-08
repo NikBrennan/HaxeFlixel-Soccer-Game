@@ -66,7 +66,7 @@ class Ball extends FlxSprite
 	{
 		doneAnim = true;
 		updateHitbox();
-		trace("done tween");
+		// trace("done tween");
 	}
 
 	/**
@@ -75,6 +75,6 @@ class Ball extends FlxSprite
 	public function updHitbox(tween:FlxTween):Void
 	{
 		updateHitbox();
-		trace("updating");
+		// trace("updating");
 	}
 }

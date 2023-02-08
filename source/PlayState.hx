@@ -151,7 +151,7 @@ class PlayState extends FlxState
 					// Kill the ball that was saved
 					ball.kill();
 					new FlxTimer().start(0.5, goalie.resetAnimation);
-					trace("hit goalie");
+					// trace("hit goalie");
 				}
 			}
 			if (Std.isOfType(Obj, Net) && !Std.isOfType(Obj, Goalie))
