@@ -158,6 +158,7 @@ class PlayState extends FlxState
 			{
 				updateLives();
 				ball.kill();
+				// blah
 			}
 		}
 	}
